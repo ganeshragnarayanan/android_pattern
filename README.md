@@ -1,11 +1,4 @@
-A
-total path for A for size 0 = 1
-=====================================
-AB
-AD
-AE
-total path for A for size 1 = 3
-=====================================
+
 ABC
 ABE
 ABF
